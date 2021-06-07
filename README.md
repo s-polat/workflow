@@ -10,3 +10,5 @@
   8.  Check the history of the repository.
   9.  What command should you use to check the repository's history? Write your answer in this readme.
 
+> STATUS ZEIGT UNS, WIE SIEHT ZUSTAND AUS
+
